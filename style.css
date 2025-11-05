@@ -84,3 +84,23 @@ h3 {
 .links a:hover {
     text-decoration: underline;
 }
+
+.love {
+    color: palevioletred;
+    font-weight: bold;
+    padding-left: 1.5em;
+    background-image: url("heart.svg");
+    background-repeat: no-repeat;
+    background-size: 1em 1em;
+    background-position: left center;
+}
+
+.okay {
+    padding-top: 2px;
+    padding-left: 1.5em;
+    background-image: url("thumbs_up.svg");
+    background-repeat: no-repeat;
+    background-size: 1em 1em;
+    background-position: left center;
+}
+
